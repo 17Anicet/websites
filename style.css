@@ -433,7 +433,7 @@ footer{
     margin: 0 auto;
     padding: 50 0 100px;
     font-family: 'Montserrat', sans-serif;
-    gap: 60px;
+    gap: 70px;
 }
 h4{
     font-size: 20px;
@@ -457,6 +457,7 @@ h4{
     height: 60px;
     object-fit: cover;
     margin-top: 20px;
+    margin-left: 490px;
 }
 .paragraphe10{
     font-family: 'Montserrat', sans-serif;
@@ -464,7 +465,7 @@ h4{
     color: rgb(85, 85, 238);
     margin-left: 10px;
     cursor: pointer;
-    margin-left: 90px;
+    margin-left: 125px;
 }
 @media all and (max-width: 1024px){
     .animation3{
@@ -623,10 +624,11 @@ h4{
         margin-left: 70px;
     }
     .liste0{
-        font-size: 17px;
+        font-size: 16.58px;
     }
     .footer1{
-        gap: 50px;
+        margin-left: auto;
+        gap: 10px;
     }
     .paragraphe10{
         font-size: 25px;
@@ -641,7 +643,7 @@ h4{
         top: 550px;
     }
     footer{
-        width: 1330px;
+        width: 1332px;
     }
     .paragraphe10{
         font-size: 18px;
@@ -665,6 +667,16 @@ h4{
         margin-left: 160px;
     }
     .liste0{
-        font-size: 16.5px;
+        font-size: 16.85px;
+    }
+}
+@media all and (max-device-width: 414px){
+    .liste0{
+        font-size: 16.85px;
+    }
+}
+@media all and (max-device-width: 411px){
+    .liste0{
+        font-size: 16.85px;
     }
 }
