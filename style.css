@@ -670,13 +670,3 @@ h4{
         font-size: 16.85px;
     }
 }
-@media all and (max-device-width: 414px){
-    .liste0{
-        font-size: 16.85px;
-    }
-}
-@media all and (max-device-width: 411px){
-    .liste0{
-        font-size: 16.85px;
-    }
-}
